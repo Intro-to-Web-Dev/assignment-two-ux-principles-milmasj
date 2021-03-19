@@ -1,0 +1,71 @@
+img{
+    border: 5px solid rgb(252, 250, 240);
+}
+.title {
+text-align: center;
+width: 20%;
+padding: 1px;
+}
+
+.center {
+margin-left: auto;
+margin-right: auto;
+width: 50%;
+display: block;
+}
+h1 {
+    color: #065016;
+    text-align: center;
+    }
+h3 {
+    color: #065016;
+    text-align: center;
+    border: 5px solid rgb(252, 250, 240);
+    }
+p{color: #002c02;}
+
+body {
+    background-color: rgb(252, 250, 240);
+        }
+.ul {
+    margin: auto;
+    width: 20%;
+    padding: 1px;
+}
+.header {
+    overflow: hidden;
+    background-color:rgb(252, 250, 240);
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+.header a 
+{
+    float: left;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+.header a:hover 
+{
+    background: #ddd;
+    color: black;
+}
+.portfolio{
+    padding: 25px 1px;
+}
+
+.image_text{
+            width: 25vw;
+            height: 50px;
+            background-color: darkkhaki;
+            margin: auto;
+            margin-top: -18px;
+            margin-bottom: 70px;
+            font-size: 9px;
+
+
+}
